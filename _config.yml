@@ -1,9 +1,9 @@
 # Site settings
 title:       Jatundata
-email:       solytecs@gmail.com
+email:       edwardspcs@gmail.com
 author:      Edward Pacheco
 description: "Notes about Big Data."
-baseurl:     "/repo-name"
+baseurl:     "/jatundata.github.io"
 url:         "http://jatundata.github.io"
 
 # Google analytics
