@@ -3,7 +3,8 @@ title:       Jatundata
 email:       edwardspcs@gmail.com
 author:      Edward Pacheco
 description: "Notes about Big Data."
-baseurl:     "/jatundata.github.io"
+category_dir: /
+baseurl:
 url:         "http://jatundata.github.io"
 
 # Google analytics
