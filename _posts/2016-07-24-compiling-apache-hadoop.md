@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compiling Apache Hadoop?
+title: Compiling Apache Hadoop
 ---
 
 I need to perfom some tests over hdfs. This time, I prefer to set up a clean installation of hadoop so I'm sharing useful command lines which could help you if you plan to compile hadoop for yourself. Compiled using a Centos 6.8.
